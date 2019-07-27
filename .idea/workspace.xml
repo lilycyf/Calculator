@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15047b0b-078b-42e5-a373-c959823771f9" name="Default Changelist" comment="" />
+    <list default="true" id="15047b0b-078b-42e5-a373-c959823771f9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Assignment16.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Assignment16.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/swt_debug.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/swt.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$13.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$14.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$15.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$16.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$17.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$18.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$19.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$20.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$21.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$21.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/Assignment16/Assignment16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment16.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,10 +49,16 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Assignment16.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+            <state relative-caret-position="2941">
+              <caret line="226" column="17" lean-forward="true" selection-start-line="226" selection-start-column="17" selection-end-line="226" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#4878#5020#0" expanded="true" />
+                <element signature="e#5019#5020#0" expanded="true" />
+                <element signature="e#8192#8362#0" expanded="true" />
+                <element signature="e#8361#8362#0" expanded="true" />
+                <element signature="e#8536#8708#0" expanded="true" />
+                <element signature="e#8707#8708#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -35,6 +68,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Assignment16.java" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="950" />
@@ -46,7 +86,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -60,16 +99,22 @@
               <item name="Calculator" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Calculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548918361164" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../project_chencyf" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="D:/downloads/swt-4.2.1-win32-win32-x86_64/swt-debug.jar!/" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -125,8 +170,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26442954" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26845637" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -134,14 +180,15 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Learn" order="6" weight="0.3342282" />
       <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Extract Method" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3323782" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33144477" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
@@ -174,12 +221,34 @@
     <entry file="file://$PROJECT_DIR$/.classpath">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/classes/production/Assignment16/Assignment16.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3550">
+          <folding>
+            <element signature="e#0#11645#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/downloads/swt-4.2.1-win32-win32-x86_64/swt.jar!/org/eclipse/swt/events/SelectionAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Assignment16.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        <state relative-caret-position="2941">
+          <caret line="226" column="17" lean-forward="true" selection-start-line="226" selection-start-column="17" selection-end-line="226" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#4878#5020#0" expanded="true" />
+            <element signature="e#5019#5020#0" expanded="true" />
+            <element signature="e#8192#8362#0" expanded="true" />
+            <element signature="e#8361#8362#0" expanded="true" />
+            <element signature="e#8536#8708#0" expanded="true" />
+            <element signature="e#8707#8708#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -213,6 +282,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
+          <last-edited>swt-4.2.1-win32-win32-x86_64</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -260,7 +330,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>swt-debug</last-edited>
+          <last-edited>swt</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

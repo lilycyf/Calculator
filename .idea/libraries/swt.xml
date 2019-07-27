@@ -1,8 +1,8 @@
 <component name="libraryTable">
-  <library name="swt-debug">
+  <library name="swt">
     <CLASSES>
-      <root url="jar://D:/downloads/swt-4.2.1-win32-win32-x86_64/swt-debug.jar!/" />
       <root url="jar://D:/downloads/swt-4.2.1-win32-win32-x86_64/swt.jar!/" />
+      <root url="jar://D:/downloads/swt-4.2.1-win32-win32-x86_64/swt-debug.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
