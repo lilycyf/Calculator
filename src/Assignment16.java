@@ -3,17 +3,15 @@ import org.eclipse.swt.widgets.Shell;
 import org.eclipse.swt.widgets.Text;
 import org.eclipse.swt.SWT;
 import org.eclipse.swt.widgets.Button;
-import org.eclipse.swt.events.PaintListener;
 import org.eclipse.swt.events.SelectionAdapter;
 import org.eclipse.swt.events.SelectionEvent;
-import org.eclipse.wb.swt.SWTResourceManager;
 
 public class Assignment16 {
 
 	protected Shell shell;
 	private Text txtnumber;
 	public static String symbol=null, newnumber="new", lastpress;
-	public static Double firstnumber, secondnumber = 0.0;
+	public static Double firstnumber, secondNumber = 0.0;
 
 	/**
 	 * Launch the application.
@@ -62,7 +60,7 @@ public class Assignment16 {
 			public void widgetSelected(SelectionEvent e) {
 				txtnumber.setText("0.0");
 				firstnumber = 0.0;
-				secondnumber = 0.0;
+				secondNumber = 0.0;
 				lastpress = "symbol";
 			}
 		});
@@ -73,8 +71,8 @@ public class Assignment16 {
 		btnsquare.addSelectionListener(new SelectionAdapter() {
 			@Override
 			public void widgetSelected(SelectionEvent e) {
-				secondnumber = Double.parseDouble(txtnumber.getText());
-				txtnumber.setText("" + (secondnumber*secondnumber));
+				secondNumber = Double.parseDouble(txtnumber.getText());
+				txtnumber.setText("" + (secondNumber * secondNumber));
 				firstnumber = Double.parseDouble(txtnumber.getText());
 				
 				symbol = "square";
@@ -89,8 +87,8 @@ public class Assignment16 {
 		btnroot.addSelectionListener(new SelectionAdapter() {
 			@Override
 			public void widgetSelected(SelectionEvent e) {
-				secondnumber = Double.parseDouble(txtnumber.getText());
-				txtnumber.setText("" + Math.sqrt(secondnumber));
+				secondNumber = Double.parseDouble(txtnumber.getText());
+				txtnumber.setText("" + Math.sqrt(secondNumber));
 				firstnumber = Double.parseDouble(txtnumber.getText());
 				
 				symbol = "square";
@@ -105,8 +103,8 @@ public class Assignment16 {
 		btnpercentage.addSelectionListener(new SelectionAdapter() {
 			@Override
 			public void widgetSelected(SelectionEvent e) {
-				secondnumber = Double.parseDouble(txtnumber.getText());
-				txtnumber.setText("" + (secondnumber/100));
+				secondNumber = Double.parseDouble(txtnumber.getText());
+				txtnumber.setText("" + (secondNumber /100));
 				firstnumber = Double.parseDouble(txtnumber.getText());
 				
 				symbol = "square";
@@ -121,8 +119,8 @@ public class Assignment16 {
 		btnreciprocal.addSelectionListener(new SelectionAdapter() {
 			@Override
 			public void widgetSelected(SelectionEvent e) {
-				secondnumber = Double.parseDouble(txtnumber.getText());
-				txtnumber.setText("" + (1/secondnumber));
+				secondNumber = Double.parseDouble(txtnumber.getText());
+				txtnumber.setText("" + (1/ secondNumber));
 				firstnumber = Double.parseDouble(txtnumber.getText());
 				
 				symbol = "square";
@@ -147,7 +145,7 @@ public class Assignment16 {
 				String equation=txtnumber.getText();
 				txtnumber.setText(equation + "7");
 				}
-				secondnumber = Double.parseDouble(txtnumber.getText());
+				secondNumber = Double.parseDouble(txtnumber.getText());
 				lastpress = "number";
 			}
 		});
@@ -168,7 +166,7 @@ public class Assignment16 {
 				String equation=txtnumber.getText();
 				txtnumber.setText(equation + "8");
 				}
-				secondnumber = Double.parseDouble(txtnumber.getText());
+				secondNumber = Double.parseDouble(txtnumber.getText());
 				lastpress = "number";
 			}
 		});
@@ -189,7 +187,7 @@ public class Assignment16 {
 				String equation=txtnumber.getText();
 				txtnumber.setText(equation + "9");
 				}
-				secondnumber = Double.parseDouble(txtnumber.getText());
+				secondNumber = Double.parseDouble(txtnumber.getText());
 				lastpress = "number";
 			}
 		});
@@ -213,7 +211,7 @@ public class Assignment16 {
 				String equation=txtnumber.getText();
 				txtnumber.setText(equation + "4");
 				}
-				secondnumber = Double.parseDouble(txtnumber.getText());
+				secondNumber = Double.parseDouble(txtnumber.getText());
 				lastpress = "number";
 			}
 		});
@@ -234,7 +232,7 @@ public class Assignment16 {
 				String equation=txtnumber.getText();
 				txtnumber.setText(equation + "5");
 				}
-				secondnumber = Double.parseDouble(txtnumber.getText());
+				secondNumber = Double.parseDouble(txtnumber.getText());
 				lastpress = "number";
 			}
 		});
@@ -255,7 +253,7 @@ public class Assignment16 {
 				String equation=txtnumber.getText();
 				txtnumber.setText(equation + "6");
 				}
-				secondnumber = Double.parseDouble(txtnumber.getText());
+				secondNumber = Double.parseDouble(txtnumber.getText());
 				lastpress = "number";
 			}
 		});
@@ -279,7 +277,7 @@ public class Assignment16 {
 				String equation=txtnumber.getText();
 				txtnumber.setText(equation + "1");
 				}
-				secondnumber = Double.parseDouble(txtnumber.getText());
+				secondNumber = Double.parseDouble(txtnumber.getText());
 				lastpress = "number";
 			}
 		});
@@ -300,7 +298,7 @@ public class Assignment16 {
 				String equation=txtnumber.getText();
 				txtnumber.setText(equation + "2");
 				}
-				secondnumber = Double.parseDouble(txtnumber.getText());
+				secondNumber = Double.parseDouble(txtnumber.getText());
 				lastpress = "number";
 			}
 		});
@@ -321,7 +319,7 @@ public class Assignment16 {
 				String equation=txtnumber.getText();
 				txtnumber.setText(equation + "3");
 				}
-				secondnumber = Double.parseDouble(txtnumber.getText());
+				secondNumber = Double.parseDouble(txtnumber.getText());
 				lastpress = "number";
 			}
 		});
@@ -342,7 +340,7 @@ public class Assignment16 {
 				String equation=txtnumber.getText();
 				txtnumber.setText(equation + "0");
 				}
-				secondnumber = Double.parseDouble(txtnumber.getText());
+				secondNumber = Double.parseDouble(txtnumber.getText());
 				lastpress = "number";
 			}
 		});
@@ -363,7 +361,7 @@ public class Assignment16 {
 				String equation=txtnumber.getText();
 				txtnumber.setText(equation + ".");
 				}
-				secondnumber = Double.parseDouble(txtnumber.getText());
+				secondNumber = Double.parseDouble(txtnumber.getText());
 				lastpress = "number";
 			}
 		});
@@ -378,19 +376,19 @@ public class Assignment16 {
 				{
 					if(symbol == "times")
 					{
-						txtnumber.setText("" + (firstnumber*secondnumber));	
+						txtnumber.setText("" + (firstnumber* secondNumber));
 					}
 					if(symbol == "plus")
 					{
-						txtnumber.setText("" + (firstnumber+secondnumber));	
+						txtnumber.setText("" + (firstnumber+ secondNumber));
 					}
 					if(symbol == "minus")
 					{
-						txtnumber.setText("" + (firstnumber-secondnumber));
+						txtnumber.setText("" + (firstnumber- secondNumber));
 					}
 					if(symbol == "divide")
 					{
-						txtnumber.setText("" + (firstnumber/secondnumber));
+						txtnumber.setText("" + (firstnumber/ secondNumber));
 					}
 				}
 				firstnumber = Double.parseDouble(txtnumber.getText());
@@ -410,19 +408,19 @@ public class Assignment16 {
 				{
 					if(symbol == "times")
 					{
-						txtnumber.setText("" + (firstnumber*secondnumber));	
+						txtnumber.setText("" + (firstnumber* secondNumber));
 					}
 					if(symbol == "plus")
 					{
-						txtnumber.setText("" + (firstnumber+secondnumber));	
+						txtnumber.setText("" + (firstnumber+ secondNumber));
 					}
 					if(symbol == "minus")
 					{
-						txtnumber.setText("" + (firstnumber-secondnumber));
+						txtnumber.setText("" + (firstnumber- secondNumber));
 					}
 					if(symbol == "divide")
 					{
-						txtnumber.setText("" + (firstnumber/secondnumber));
+						txtnumber.setText("" + (firstnumber/ secondNumber));
 					}
 				}
 				firstnumber = Double.parseDouble(txtnumber.getText());
@@ -444,19 +442,19 @@ public class Assignment16 {
 				{
 					if(symbol == "divide")
 					{
-						txtnumber.setText("" + (firstnumber/secondnumber));
+						txtnumber.setText("" + (firstnumber/ secondNumber));
 					}
 					if(symbol == "plus")
 					{
-						txtnumber.setText("" + (firstnumber+secondnumber));	
+						txtnumber.setText("" + (firstnumber+ secondNumber));
 					}
 					if(symbol == "minus")
 					{
-						txtnumber.setText("" + (firstnumber-secondnumber));
+						txtnumber.setText("" + (firstnumber- secondNumber));
 					}
 					if(symbol == "times")
 					{
-						txtnumber.setText("" + (firstnumber*secondnumber));	
+						txtnumber.setText("" + (firstnumber* secondNumber));
 					}
 				}	
 				firstnumber = Double.parseDouble(txtnumber.getText());
@@ -477,19 +475,19 @@ public class Assignment16 {
 				{
 					if(symbol == "times")
 					{
-						txtnumber.setText("" + (firstnumber*secondnumber));	
+						txtnumber.setText("" + (firstnumber* secondNumber));
 					}
 					if(symbol == "divide")
 					{
-						txtnumber.setText("" + (firstnumber/secondnumber));
+						txtnumber.setText("" + (firstnumber/ secondNumber));
 					}
 					if(symbol == "plus")
 					{
-						txtnumber.setText("" + (firstnumber+secondnumber));	
+						txtnumber.setText("" + (firstnumber+ secondNumber));
 					}		
 					if(symbol == "minus")
 					{
-						txtnumber.setText("" + (firstnumber-secondnumber));
+						txtnumber.setText("" + (firstnumber- secondNumber));
 					}
 				}
 				firstnumber = Double.parseDouble(txtnumber.getText());
@@ -509,19 +507,19 @@ public class Assignment16 {
 			public void widgetSelected(SelectionEvent e) {
 				if(symbol == "plus")
 				{
-					txtnumber.setText("" + (firstnumber+secondnumber));	
+					txtnumber.setText("" + (firstnumber+ secondNumber));
 				}
 				if(symbol == "divide")
 				{
-					txtnumber.setText("" + (firstnumber/secondnumber));
+					txtnumber.setText("" + (firstnumber/ secondNumber));
 				}
 				if(symbol == "times")
 				{
-					txtnumber.setText("" + (firstnumber*secondnumber));	
+					txtnumber.setText("" + (firstnumber* secondNumber));
 				}
 				if(symbol == "minus")
 				{
-					txtnumber.setText("" + (firstnumber-secondnumber));
+					txtnumber.setText("" + (firstnumber- secondNumber));
 				}
 				firstnumber = Double.parseDouble(txtnumber.getText());
 				
